@@ -13,11 +13,16 @@ Note: Copilot would be able to automatically execute the tests based upon your p
   npx playwright test tests/
 ```
 
-
-
 # Few things which you need before starting:
 * VS Code installed
 * GitHub Copilot Extension
 * Playwright installed
 * Playwright test for vs code (Optional)
 * Authorize or link your github profile with github copilot
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at dhruv.kmr.2101@gmail.com
+- [@Dhruv](https://www.linkedin.com/in/dhruv6/)
+
