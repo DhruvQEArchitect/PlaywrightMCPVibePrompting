@@ -1,3 +1,6 @@
+# Playwright automation test generation with prompts and vibe 😄
+This repository shows how playwright automated tests can be generated on the fly by utilizing prompts with no coding at all.
+
 ## Run Tests Locally
 
 Clone the project
@@ -6,7 +9,7 @@ Clone the project
   git clone https://github.com/DhruvQEArchitect/PlaywrightMCPVibePrompting.git
 ```
 
-Start the execution
+## Start the execution
 Note: Copilot would be able to automatically execute the tests based upon your prompt, so below command might not be needed to trigger playwright tests
 
 ```bash
@@ -17,6 +20,7 @@ Note: Copilot would be able to automatically execute the tests based upon your p
 * VS Code installed
 * GitHub Copilot Extension
 * Playwright installed
+* Playwright MCP Server
 * Playwright test for vs code (Optional)
 * Authorize or link your github profile with github copilot
 
